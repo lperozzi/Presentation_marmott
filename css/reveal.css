@@ -1336,3 +1336,11 @@ html:-moz-full-screen-ancestor {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+/*.reveal>.backgrounds {
+    z-index:1;
+}
+
+.reveal .slide-background.present {
+    z-index:1;
+}*/
